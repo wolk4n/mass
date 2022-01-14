@@ -8,3 +8,4 @@ Belirtilen dizin yolundaki tüm dizinlere belirtilen dosya adı ve kodları ile 
 <img width="800" src="https://www.imagevisit.com/images/2022/01/14/2.png"/>
 
 ## Video
+<u><i>https://www.youtube.com/watch?v=6ZsqjpIzkjw</u></i>
