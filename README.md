@@ -1,5 +1,5 @@
 # wolkan MASS
-Belirtilen dizin yolundaki tüm dizinlere dosya adı ve kodları ile birlikte yükleyen küçük bir mass deface script. Kolaylıkla mass deface için kullanabilirsiniz.
+Basit bir mass deface script. Rahatlıkla kullanabilirsiniz.
 
 ## Ekran Görüntüsü
 1)<br>
